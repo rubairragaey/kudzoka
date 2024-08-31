@@ -39,13 +39,15 @@ margin-right: 10px;}
 .log button:hover{
     transform: scale(1.1);
 }
-.div2 span{ color: blueviolet;
+.div2 span{ color: #96318D;
     font-weight: 800;
 }
+.p{font-size: 1.5em;
+font-weight: 500;}
 /* .div2 p{font-size: 1.8em;
 font-weight: 600;} */
-.span{font-size: 2.4em;
-font-weight: 500;}
+.span{font-size: 3em;
+font-weight: 950;}
 .div2{margin-left: 40px;}
 .pic1{position: relative;
     padding-left: 620px;
@@ -61,5 +63,39 @@ left: 680px;}
 .pic4{position: absolute;
  /* border:2px solid black;  */
  bottom: 2px;}
-        
+ .sec2{
+    width: 100%;
+    height: 800px;
+    background-image: url(second_section_.png) ;
+    background-repeat: no-repeat;
+    background-size: 100% 85%;
+    position: relative;
+    top: 0px;
+    padding-top: 20px;
+    max-height: 800px;
+    color: gray;
+ }
+     /* .sec2 span {margin-right: 100px;}   */
+     .section2{margin-left: 70px;
+    }
+.section2 h2{font-size:1.8em ;
+margin-left: 20px;}
+.section2 h3 {font-size: 1.5em;
+font-weight: 600;
+margin-left: 10px;
+}
+.section2 p{font-size: 1.2em;}
+.section3{margin-left: 500px;}
+.section3 h2{font-size:1.8em ;
+    margin-left: 20px;}
+    .section3 h3 {font-size: 1.2em;
+    font-weight: 400;
+    margin-right:500px;
+    }
+    .pp{margin-left:38px ;}
+    .section4{margin-left: 980px;}
+    .section4 h2{margin-left: 80px;
+    font-size: 2em;}
+    .section4 .r{margin-left: 18px;}
+    .section4 .b{font-size: 1.1em;}
     
